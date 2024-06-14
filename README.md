@@ -1,2 +1,1 @@
-# portfolio
-My Static Portfolio
+# My Static Portfolio
